@@ -1,0 +1,23 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "一个测试npmdemo\u001b[D\u001b[D\u001b[D\u001b[D的\u001b[C\u001bdemo",
+  "main": "index.html",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomcatJie/npm-demo.git"
+  },
+  "author": "liwenjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomcatJie/npm-demo/issues"
+  },
+  "homepage": "https://github.com/TomcatJie/npm-demo#readme"
+}
