@@ -4,7 +4,9 @@
   "description": "一个测试npmdemo\u001b[D\u001b[D\u001b[D\u001b[D的\u001b[C\u001bdemo",
   "main": "index.html",
   "dependencies": {
-    "jquery": "^3.2.1"
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {},
   "scripts": {
